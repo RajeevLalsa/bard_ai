@@ -2,6 +2,12 @@ my frist set of code for and project i am working on
 
 pip requirment (pip install Bard python-dotenv) 
 
+then change the .env.txt to a .env by Navigate to the directory where your .env.txt file is located using the cd command eg (cd /path/to/your/directory)
+
+then run this command   (mv .env.txt .env)
+
+
+
 
 you also need a #__Secure-1PSIDTS and #__Secure-1PSID to run just copy and paste it into the env
 video link on how to get it (https://youtu.be/mGa68pSne8M)
