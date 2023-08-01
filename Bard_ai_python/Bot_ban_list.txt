@@ -1,0 +1,5 @@
+offensive_word
+insulting_term
+inflammatory_word
+real-time_information
+location

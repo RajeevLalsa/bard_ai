@@ -1,0 +1,8 @@
+my frist set of code for and project i am working on
+
+pip requirment (pip install Bard python-dotenv) 
+
+
+you also need a #__Secure-1PSIDTS and #__Secure-1PSID to run just copy and paste it into the env
+video link on how to get it (https://youtu.be/mGa68pSne8M)
+NOTE BOTH OF THEM ARE AT THE SAME PLACE

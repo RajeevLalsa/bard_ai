@@ -1,0 +1,4 @@
+spam
+bad_word
+rude_phrase
+hateful_term
